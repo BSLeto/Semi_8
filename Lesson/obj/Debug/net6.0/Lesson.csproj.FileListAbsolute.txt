@@ -1,0 +1,15 @@
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.csproj.AssemblyReference.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.AssemblyInfoInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.AssemblyInfo.cs
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\bin\Debug\net6.0\Lesson.exe
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\bin\Debug\net6.0\Lesson.deps.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\bin\Debug\net6.0\Lesson.runtimeconfig.json
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\bin\Debug\net6.0\Lesson.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\bin\Debug\net6.0\Lesson.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\refint\Lesson.dll
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.pdb
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\Lesson.genruntimeconfig.cache
+C:\Users\jslet\OneDrive\Рабочий стол\C#_Lesson\Semi_8\Lesson\obj\Debug\net6.0\ref\Lesson.dll
